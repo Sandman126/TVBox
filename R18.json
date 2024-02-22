@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "葡萄资源",
-      "name": "葡萄资源",
+      "name": "1葡萄资源",
       "type": 0,
       "api": "https://caiji.putaozy.net/inc/api.php",
       "searchable": 1,
